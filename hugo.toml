@@ -1,0 +1,91 @@
+baseURL = "https://dressvibershop.github.io/"
+languageCode = "ko-kr"
+title = "dressvibershop 쇼핑 블로그"
+theme = "PaperMod"
+
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+summaryLength = 35
+
+[pagination]
+pagerSize = 12
+
+[outputs]
+home = ["HTML", "RSS", "JSON"]
+
+[markup]
+	[markup.goldmark]
+		[markup.goldmark.renderer]
+			unsafe = true
+
+[minify]
+disableXML = false
+minifyOutput = true
+
+[sitemap]
+changefreq = "daily"
+priority = 0.7
+filename = "sitemap.xml"
+
+[permalinks]
+posts = "/posts/:slug/"
+
+[params]
+defaultTheme = "auto"
+disableThemeToggle = false
+ShowShareButtons = true
+ShowReadingTime = true
+ShowPostNavLinks = true
+ShowBreadCrumbs = true
+ShowCodeCopyButtons = true
+ShowToc = true
+TocOpen = false
+env = "production"
+description = "개성 넘치는 드레스와 원피스를 큐레이션하는 드레스바이브 쇼핑 블로그입니다. 파티룩, 오피스룩, 캐주얼 드레스까지 다양한 스타일의 드레스 쇼핑 정보를 제공합니다"
+keywords = ["드레스쇼핑", "원피스추천", "파티룩", "오피스룩", "여성의류"]
+images = ["/images/og-default.webp"]
+
+# Search engine verification (set only when needed)
+googleSiteVerification = ""
+naverSiteVerification = ""
+bingSiteVerification = ""
+yandexSiteVerification = ""
+
+[params.homeInfoParams]
+Title = "드레스로 완성하는 나만의 바이브, 드레스바이브 쇼핑"
+Content = "특별한 날을 더욱 빛나게 해줄 드레스를 찾고 계신가요? 드레스바이브에서는 데일리 원피스부터 파티용 드레스, 오피스룩까지 다양한 스타일의 드레스를 엄선하여 소개합니다. 나만의 분위기를 완성해줄 완벽한 드레스를 지금 바로 만나보세요."
+
+[params.fuseOpts]
+isCaseSensitive = false
+shouldSort = true
+location = 0
+distance = 1000
+threshold = 0.4
+minMatchCharLength = 2
+keys = ["title", "permalink", "summary", "content"]
+
+[[menu.main]]
+identifier = "search"
+name = "Search"
+url = "/search/"
+weight = 5
+
+[[menu.main]]
+identifier = "posts"
+name = "Posts"
+url = "/posts/"
+weight = 10
+
+[[menu.main]]
+identifier = "categories"
+name = "Categories"
+url = "/categories/"
+weight = 20
+
+[[menu.main]]
+identifier = "tags"
+name = "Tags"
+url = "/tags/"
+weight = 30
