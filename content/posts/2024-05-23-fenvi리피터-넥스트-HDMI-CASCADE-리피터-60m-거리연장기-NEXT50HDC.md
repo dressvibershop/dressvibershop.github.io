@@ -1,10 +1,10 @@
-﻿---
-title: "fenvi리피터  [30~40대 여성추천] 넥스트 HDMI CASCADE 리피터 60m 거리연장기, NEXT-50HDC 장점 및 추천 제품 구매 가이드 할인 최저 가격 상품평 후기 자주 묻는 질문 상세정보"
+---
+title: 'fenvi리피터  [30~40대 여성추천] 넥스트 HDMI CASCADE 리피터 60m 거리연장기, NEXT-50HDC 장점 및 추천 제품 구매 가이드 할인 최저 가격 상품평 후기 자주 묻는 질문 상세정보'
 date: 2024-05-23
-slug: "fenvi리피터-넥스트-HDMI-CASCADE-리피터-60m-거리연장기-NEXT50HDC"
-author: Moon
-categories: [shopping]
-tags: [Top10, shopping, 장점, 추천, 추천제품, 구매가이드, 할인, 최저가격, 상품평, 후기, fenvi리피터]
+slug: 'fenvi리피터-넥스트-HDMI-CASCADE-리피터-60m-거리연장기-NEXT50HDC'
+author: 'Moon'
+categories: ['shopping']
+tags: ['Top10', 'shopping', '장점', '추천', '추천제품', '구매가이드', '할인', '최저가격', '상품평', '후기', 'fenvi리피터']
 ---
 
 <p data-nosnippet>💦 💦 💦 파트너스 활동을 통해 일정액의 수수료를 제공받습니다.</p>

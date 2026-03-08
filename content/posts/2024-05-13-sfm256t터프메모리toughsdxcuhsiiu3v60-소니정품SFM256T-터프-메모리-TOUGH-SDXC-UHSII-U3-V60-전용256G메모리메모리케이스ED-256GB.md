@@ -1,10 +1,10 @@
-﻿---
-title: "sf-m256t터프메모리toughsdxcuhs-iiu3v60  |[소니정품]SF-M256T 터프 메모리 TOUGH SDXC UHS-II U3 V60 전용[256G]메모리+메모리케이스/ED, 장점 및 추천 제품 구매 가이드 할인 최저 가격 상품평 후기 자주 묻는 질문 상세정보"
+---
+title: 'sf-m256t터프메모리toughsdxcuhs-iiu3v60  |[소니정품]SF-M256T 터프 메모리 TOUGH SDXC UHS-II U3 V60 전용[256G]메모리+메모리케이스/ED, 장점 및 추천 제품 구매 가이드 할인 최저 가격 상품평 후기 자주 묻는 질문 상세정보'
 date: 2024-05-13
-slug: "sfm256t터프메모리toughsdxcuhsiiu3v60-소니정품SFM256T-터프-메모리-TOUGH-SDXC-UHSII-U3-V60-전용256G메모리메모리케이스ED-256GB"
-author: Moon
-categories: [shopping]
-tags: [Top10, shopping, 장점, 추천, 추천제품, 구매가이드, 할인, 최저가격, 상품평, 후기, sf-m256t터프메모리toughsdxcuhs-iiu3v60]
+slug: 'sfm256t터프메모리toughsdxcuhsiiu3v60-소니정품SFM256T-터프-메모리-TOUGH-SDXC-UHSII-U3-V60-전용256G메모리메모리케이스ED-256GB'
+author: 'Moon'
+categories: ['shopping']
+tags: ['Top10', 'shopping', '장점', '추천', '추천제품', '구매가이드', '할인', '최저가격', '상품평', '후기', 'sf-m256t터프메모리toughsdxcuhs-iiu3v60']
 ---
 
 <p data-nosnippet>💦 💦 💦 파트너스 활동을 통해 일정액의 수수료를 제공받습니다.</p>

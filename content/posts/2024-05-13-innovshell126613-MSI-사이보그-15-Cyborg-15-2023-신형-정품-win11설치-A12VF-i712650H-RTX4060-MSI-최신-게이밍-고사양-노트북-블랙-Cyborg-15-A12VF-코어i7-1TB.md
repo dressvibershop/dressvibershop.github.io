@@ -1,10 +1,10 @@
-﻿---
-title: "innovshell126613  [30~60대 남성추천] [MSI] 사이보그 15 Cyborg 15 2023 신형 정품 win11설치 A12VF i7-12650H (RTX4060)  장점 및 추천 제품 구매 가이드 할인 최저 가격 상품평 후기 자주 묻는 질문 상세정보"
+---
+title: 'innovshell126613  [30~60대 남성추천] [MSI] 사이보그 15 Cyborg 15 2023 신형 정품 win11설치 A12VF i7-12650H (RTX4060)  장점 및 추천 제품 구매 가이드 할인 최저 가격 상품평 후기 자주 묻는 질문 상세정보'
 date: 2024-05-13
-slug: "innovshell126613-MSI-사이보그-15-Cyborg-15-2023-신형-정품-win11설치-A12VF-i712650H-RTX4060-MSI-최신-게이밍-고사양-노트북-블랙-Cyborg-15-A12VF-코어i7-1TB"
-author: Moon
-categories: [shopping]
-tags: [Top10, shopping, 장점, 추천, 추천제품, 구매가이드, 할인, 최저가격, 상품평, 후기, innovshell126613]
+slug: 'innovshell126613-MSI-사이보그-15-Cyborg-15-2023-신형-정품-win11설치-A12VF-i712650H-RTX4060-MSI-최신-게이밍-고사양-노트북-블랙-Cyborg-15-A12VF-코어i7-1TB'
+author: 'Moon'
+categories: ['shopping']
+tags: ['Top10', 'shopping', '장점', '추천', '추천제품', '구매가이드', '할인', '최저가격', '상품평', '후기', 'innovshell126613']
 ---
 
 <p data-nosnippet>💦 💦 💦 파트너스 활동을 통해 일정액의 수수료를 제공받습니다.</p>
